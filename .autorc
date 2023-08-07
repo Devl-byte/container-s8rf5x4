@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Devl-byte",
+  "repo": "container-s8rf5x4",
+  "name": "Devl-byte",
+  "email": "iamprosofty@gmail.com",
+}
